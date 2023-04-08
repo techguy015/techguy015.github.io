@@ -4,7 +4,11 @@
 
 		<style type="text/css">
 
-
+		* {
+		
+			box-sizing:border-box:
+			
+		}
 			h1.header  {
 
 
